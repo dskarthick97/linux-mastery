@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Author: Karthick Sabari D S
+# Created date: 10/07/2021
+# Modified date: 10/07/2021
+
+# Description:
+# Backup all the files in the home directory
+
+echo "Hello, ${USER^}"
+echo "I will now backup your home directory, ${HOME}"
+
+current_dir=$(pwd)
+echo "You are running this script from ${current_dir}"
+echo "Therfore I will save the backup in ${current_dir}"
+
+date_=$(date +%d-%m-%Y_%H-%M-%S)
+tar -cf ${current_dir}/backup_${date_}.tar $HOME/* 2>/dev/null
+echo "Backup completed successfully."
+exit 0

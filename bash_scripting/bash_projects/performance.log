@@ -1,0 +1,36 @@
+Sunday 22 August 2021 12:45:32 PM IST
+Internet: Connected
+RAM Usages: 
+Mem:           15Gi       1.9Gi       9.7Gi       296Mi       3.9Gi        13Gi
+Swap Usages: 
+Swap:         2.0Gi          0B       2.0Gi
+Disk Usages: 
+Filesystem      Size  Used Avail Use% Mounted on
+udev            7.7G     0  7.7G   0% /dev
+tmpfs           1.6G  2.1M  1.6G   1% /run
+/dev/nvme0n1p2  468G   26G  419G   6% /
+tmpfs           7.8G     0  7.8G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/loop1      100M  100M     0 100% /snap/core/11420
+/dev/loop2       56M   56M     0 100% /snap/core18/2074
+/dev/loop3      165M  165M     0 100% /snap/gnome-3-28-1804/161
+/dev/loop4      219M  219M     0 100% /snap/gnome-3-34-1804/72
+/dev/loop5       65M   65M     0 100% /snap/gtk-common-themes/1514
+/dev/loop6       66M   66M     0 100% /snap/gtk-common-themes/1515
+/dev/loop7      411M  411M     0 100% /snap/pycharm-community/244
+/dev/loop8      427M  427M     0 100% /snap/pycharm-community/248
+/dev/loop0      100M  100M     0 100% /snap/core/11316
+/dev/loop9       33M   33M     0 100% /snap/snapd/12398
+/dev/loop11     338M  338M     0 100% /snap/wine-platform-runtime/233
+/dev/loop10     219M  219M     0 100% /snap/gnome-3-34-1804/66
+/dev/loop12      56M   56M     0 100% /snap/core18/2128
+/dev/loop14      33M   33M     0 100% /snap/snapd/12704
+/dev/loop15      52M   52M     0 100% /snap/snap-store/518
+/dev/loop17     348M  348M     0 100% /snap/wine-platform-6-staging/25
+/dev/loop18      51M   51M     0 100% /snap/snap-store/547
+/dev/loop19     163M  163M     0 100% /snap/gnome-3-28-1804/145
+/dev/nvme0n1p1  511M  7.9M  504M   2% /boot/efi
+/dev/loop20     348M  348M     0 100% /snap/wine-platform-6-staging/26
+/dev/loop21     338M  338M     0 100% /snap/wine-platform-runtime/234
+tmpfs           1.6G   84K  1.6G   1% /run/user/1001

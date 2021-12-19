@@ -1,0 +1,7 @@
+#!/bin/bash
+
+container_ids=$(docker ps -a | awk '{print $1}')
+echo "${}"
+#for container_id in $container_ids; do
+#	echo "$container_id"
+d#one
